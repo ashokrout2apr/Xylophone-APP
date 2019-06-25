@@ -1,16 +1,11 @@
 # xylophone_app
 
-A new Flutter application.
+A basic flutter application to play notes of Xylophone.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A xylophone app which have buttons that play different notes like on a xylophone.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1561478451](https://user-images.githubusercontent.com/45023388/60114075-afadd280-9790-11e9-97fa-4ac53eaf537f.png)
